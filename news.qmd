@@ -1,0 +1,36 @@
+---
+title: "News"
+---
+
+## 2026
+
+- **Jul 2026** — Our work on multi-stakeholder risk and land-use planning will be presented at the *13th U.S. National Conference on Earthquake Engineering (13NCEE)*, Portland, OR.
+
+- **May 2026** — Research spotlight presentation at the *NHERI Computational Symposium* on computational methods for modeling long-term sequences of hazard losses and their implications for recovery and resilience.
+
+- **Mar 2026** — Two first-authored papers accepted:
+  - Wang, J., Siders, A. R., Davidson, R., & Nozick, L. (2026). *Stakeholder Dynamics in Disaster Mitigation Funding: The Roles of Timing, Spatial Scale and Allocation Basis in Policy Design.* International Journal of Disaster Risk Reduction.  
+    [DOI](https://doi.org/10.1016/j.ijdrr.2026.106120)
+
+  - Wang, J., Davidson, R., & Nozick, L. (2026). *An Optimization-Based Approach to Developing Computationally Efficient Long-Term Event-Loss Scenario Ensembles.* Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering.  
+    [DOI](https://doi.org/10.1061/AJRUA6/RUENG-2004)
+
+---
+
+## 2025
+
+- **Dec 2025** — Presented first-authored research at the *Society for Risk Analysis Annual Meeting*, Washington, DC:  
+  Wang, J., Williams, C., Davidson, R., Nozick, L., & Millea, M. (2025). *Coupling Land Use Planning and Multi-Stakeholder Dynamics to Inform Disaster Risk Management: Who Pays for Risk and Who Gains from Intervention?*
+
+- **Feb 2025** — Presented research at the *NHERI Computational Symposium*, Los Angeles, CA:  
+  Wang, J., Williams, C., Davidson, R., Liu, D., Nozick, L., Millea, M., & Trainor, J. (2025). *Comprehending Regional Risk Analysis: Integrating Dynamic Building Inventory into a Multi-stakeholder Decision-making Framework.*
+
+---
+
+## Earlier
+
+- **2024–2025** — Named a U.S. NSF–Every Page Foundation Ocean Decade Champion.
+
+- **2023–2024** — Served as Chair, Engineering and Infrastructure Specialty Group, Society for Risk Analysis.
+
+- **2023** — Completed Ph.D. in Industrial Engineering, Purdue University.

@@ -1,0 +1,136 @@
+---
+title: "Teaching, Mentoring & Service"
+---
+
+::: {.teaching-hero}
+
+### Teaching as mentorship, communication, and growth
+
+I approach teaching as a **collaborative and student-centered process**. My goal is to help students build confidence, communicate ideas clearly, and connect analytical tools to **real societal challenges**.
+
+:::
+
+::: {.teaching-quotes}
+
+::: {.teaching-quote}
+“I never thought doing research could be so fun. That was because of you.”
+:::
+
+::: {.teaching-quote .teaching-quote-short}
+“You’re the best TA I’ve ever met.”
+:::
+
+::: {.teaching-quote}
+“I really hope I can keep working with Jingya. She’s always been incredibly helpful, warm, and considerate.”
+:::
+
+
+::: {.teaching-section}
+
+### Mentoring
+
+::: {.teaching-card}
+
+#### CHEER Hub Summer Scholars Program  
+*Summer 2026, 2025*
+
+Mentored a cohort of **7 Summer Scholars**, including **4 undergraduate** and **3 graduate** students, in disaster risk and resilience research.
+
+- Guided students in preparing and delivering final research presentations  
+- Provided feedback on research framing, clarity, and communication  
+- Supported technical and non-technical research storytelling  
+
+:::
+
+::: {.teaching-card}
+
+#### Purdue Honors College Research Mentorship Program  
+*Fall 2022*
+
+Mentored undergraduate research on **equitable flood risk mitigation for coastal Louisiana**.
+
+- Completed formal training in mentoring theory and practice  
+- Guided project design using demographic and risk analysis  
+- Helped develop a customized career development plan aligned with student goals  
+
+:::
+
+::: {.teaching-card}
+
+#### Graduate and Thesis Mentorship  
+*Purdue University, 2021–2023*
+
+Mentored graduate research on **robust decision-making for coastal infrastructure**.
+
+- Advised research on many-objective decision analysis for seawall upgrades  
+- Supported research design, modeling approach, and interpretation  
+
+:::
+
+::: {.teaching-section}
+
+### Classroom Teaching
+
+::: {.teaching-card}
+
+#### Teaching Assistant Experience  
+*Edwardson School of Industrial Engineering, Purdue University*
+
+I served as a teaching assistant for **two years** across core engineering courses in economics, probability, and statistics.
+
+**Engineering Economics (IE 343)**  
+Fall 2018, Spring 2019, Fall 2019, Spring 2020  
+
+**Probability and Statistics in Engineering (IE 230)**  
+Spring 2019  
+
+
+:::
+
+::: {.teaching-card}
+
+#### Teaching Training and Communication  
+*College of Liberal Arts, Purdue University*
+
+Completed **Classroom Communication for International Graduate Students**, with training in classroom communication, active learning, inclusive engagement, and strategies for explaining complex ideas across diverse audiences.
+
+:::
+
+
+::: {.teaching-section}
+
+### Academic Service & Leadership
+
+::: {.teaching-card}
+
+#### Professional Leadership
+
+- **Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2023–2024)  
+- **Vice Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2022–2023)
+
+Led coordination of symposia, panels, and annual meeting activities, and supported community-building across academia, industry, and policy.
+
+:::
+
+::: {.teaching-card}
+
+#### Community & Conference Service
+
+- Postdoctoral Member, NSF Cross CoPe Student and Postdoc Planning Committee (2024–Present)  
+- Poster Judge, Purdue Undergraduate Research Conference (2022)  
+- Symposium Judge, Purdue SURF Program (2019)
+
+:::
+
+::: {.teaching-card}
+
+#### Peer Review & Professional Membership
+
+- **Trusted Reviewer**, IOP Publishing  
+- Reviewer for journals including *Nature Communications Earth & Environment*, *Environmental Research Letters*, and *Natural Hazards Research*  
+- Member, Society for Risk Analysis (SRA)  
+- Member, INFORMS  
+
+:::
+
+:::

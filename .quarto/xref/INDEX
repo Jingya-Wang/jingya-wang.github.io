@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "f4140b66"
+  },
+  "news.qmd": {
+    "news.html": "114691ba"
+  },
+  "research.qmd": {
+    "research.html": "5f599ad3"
+  },
+  "impact.qmd": {
+    "impact.html": "1475b573"
+  },
+  "teaching.qmd": {
+    "teaching.html": "98342278"
+  },
+  "awards.qmd": {
+    "awards.html": "979d70b9"
+  },
+  "outside.qmd": {
+    "outside.html": "04fd3398"
+  }
+}

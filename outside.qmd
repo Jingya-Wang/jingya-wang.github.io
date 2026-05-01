@@ -1,0 +1,30 @@
+---
+title: "Beyond Research"
+---
+
+::: {.research-hero}
+
+### Climbing, community, and being outdoors
+
+Outside of research, I spend a lot of time rock climbing, both indoors and outdoors. I enjoy the focus it requires and the feeling of working through something move by move.
+
+What I value most, though, is the people. I’ve been really lucky to have climbing friends who are encouraging, patient, and always there to support each other. That sense of trust and community means a lot to me.
+
+I also love being outside more generally, especially places where you can slow down a bit and just take everything in.
+
+:::
+
+---
+
+::: {.photo-grid}
+
+![](images/MuscatatuckPark.jpg)
+*Muscatatuck Park, Indiana (2022)*
+
+![](images/acadia.jpg)
+*Acadia National Park, Maine (2023)*
+
+![](images/rumney.jpg)
+*Rumney, New Hampshire (2023)*
+
+:::

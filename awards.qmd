@@ -1,0 +1,51 @@
+---
+title: "Awards & Funding"
+---
+
+::: {.research-hero}
+
+### Recognition and support for research in climate risk and resilience
+
+My work has been recognized through competitive awards and supported by research funding focused on **climate risk, infrastructure systems, and decision-making under uncertainty**.
+
+:::
+
+---
+
+::: {.impact-card .impact-card-featured}
+
+### NSF Ocean Decade Champion (Principal Investigator)
+
+::: {.impact-highlight}
+NSF-funded and endorsed by the **United Nations Decade of Ocean Science for Sustainable Development**
+:::
+
+Awarded through the NSF **Coastlines and People (CoPe)** program within the CHEER Hub, supporting interdisciplinary research on coastal hazards, equity, and resilience.
+
+- **Principal Investigator** (within CHEER Hub, per NSF policy)  
+- Funding: **$48,448**  
+- Duration: June 2024 – June 2025  
+
+
+:::
+
+---
+
+::: {.impact-grid}
+
+::: {.impact-card}
+
+### Selected Honors
+
+- **Postdoctoral Researcher Excellence Award Finalist**  
+  University of Delaware (2026, 2025)
+
+- **Student Merit Award / Annual Student Spotlight**  
+  Society for Risk Analysis (2021)
+
+- **People’s Choice Award & Honorable Mention**  
+  Purdue Climate Change Research Video Competition (2021)
+
+:::
+
+:::
