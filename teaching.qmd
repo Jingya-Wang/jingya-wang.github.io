@@ -24,6 +24,7 @@ I approach teaching as a **collaborative and student-centered process**. My goal
 “I really hope I can keep working with Jingya. She’s always been incredibly helpful, warm, and considerate.”
 :::
 
+:::
 
 ::: {.teaching-section}
 
@@ -31,39 +32,47 @@ I approach teaching as a **collaborative and student-centered process**. My goal
 
 ::: {.teaching-card}
 
-#### CHEER Hub Summer Scholars Program  
+#### CHEER Hub Summer Scholars Program
+
 *Summer 2026, 2025*
 
-Mentored a cohort of **7 Summer Scholars**, including **4 undergraduate** and **3 graduate** students, in disaster risk and resilience research.
+Mentored **15 Summer Scholars**, including **8 undergraduate** and **7 graduate** students, through the CHEER Hub Summer Scholars Program in disaster risk and resilience research.
 
-- Guided students in preparing and delivering final research presentations  
-- Provided feedback on research framing, clarity, and communication  
-- Supported technical and non-technical research storytelling  
+- Guided students in preparing and delivering final research presentations
+- Provided feedback on research framing, presentation clarity, and scientific communication
+- Supported technical and non-technical research storytelling
+- Helped students connect computational modeling with real-world resilience questions
 
 :::
 
 ::: {.teaching-card}
 
-#### Purdue Honors College Research Mentorship Program  
+#### Purdue Honors College Research Mentorship Program
+
 *Fall 2022*
 
 Mentored undergraduate research on **equitable flood risk mitigation for coastal Louisiana**.
 
-- Completed formal training in mentoring theory and practice  
-- Guided project design using demographic and risk analysis  
-- Helped develop a customized career development plan aligned with student goals  
+- Completed formal training in mentoring theory and practice
+- Guided project design using demographic and risk analysis
+- Introduced the student to data analysis, modeling, and research communication
+- Helped develop a customized career development plan aligned with student goals
 
 :::
 
 ::: {.teaching-card}
 
-#### Graduate and Thesis Mentorship  
+#### Graduate and Thesis Mentorship
+
 *Purdue University, 2021–2023*
 
 Mentored graduate research on **robust decision-making for coastal infrastructure**.
 
-- Advised research on many-objective decision analysis for seawall upgrades  
-- Supported research design, modeling approach, and interpretation  
+- Advised research on many-objective decision analysis for seawall upgrades
+- Supported research design, modeling approach, and interpretation
+- Helped connect optimization methods with coastal protection and infrastructure planning
+
+:::
 
 :::
 
@@ -73,29 +82,35 @@ Mentored graduate research on **robust decision-making for coastal infrastructur
 
 ::: {.teaching-card}
 
-#### Teaching Assistant Experience  
+#### Teaching Assistant Experience
+
 *Edwardson School of Industrial Engineering, Purdue University*
 
-I served as a teaching assistant for **two years** across core engineering courses in economics, probability, and statistics.
+I served as a teaching assistant across core engineering courses in economics, probability, and statistics.
 
 **Engineering Economics (IE 343)**  
-Fall 2018, Spring 2019, Fall 2019, Spring 2020  
+Fall 2018, Spring 2019, Fall 2019, Spring 2020
 
 **Probability and Statistics in Engineering (IE 230)**  
-Spring 2019  
+Spring 2019
 
+- Prepared course materials, led review sessions, and supported student projects
+- Worked with students individually and in groups to clarify quantitative concepts
+- Used feedback to adjust explanations and help students build confidence with technical material
 
 :::
 
 ::: {.teaching-card}
 
-#### Teaching Training and Communication  
+#### Teaching Training and Communication
+
 *College of Liberal Arts, Purdue University*
 
 Completed **Classroom Communication for International Graduate Students**, with training in classroom communication, active learning, inclusive engagement, and strategies for explaining complex ideas across diverse audiences.
 
 :::
 
+:::
 
 ::: {.teaching-section}
 
@@ -105,10 +120,10 @@ Completed **Classroom Communication for International Graduate Students**, with 
 
 #### Professional Leadership
 
-- **Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2023–2024)  
+- **Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2023–2024)
 - **Vice Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2022–2023)
 
-Led coordination of symposia, panels, and annual meeting activities, and supported community-building across academia, industry, and policy.
+Led coordination of symposia, panels, annual meeting activities, and community-building across academia, industry, government, and policy.
 
 :::
 
@@ -116,8 +131,9 @@ Led coordination of symposia, panels, and annual meeting activities, and support
 
 #### Community & Conference Service
 
-- Postdoctoral Member, NSF Cross CoPe Student and Postdoc Planning Committee (2024–Present)  
-- Poster Judge, Purdue Undergraduate Research Conference (2022)  
+- Postdoctoral Member, NSF Cross CoPe Student and Postdoc Planning Committee (2024–Present)
+- Annual Meeting Committee, Society for Risk Analysis (2026)
+- Poster Judge, Purdue Undergraduate Research Conference (2022)
 - Symposium Judge, Purdue SURF Program (2019)
 
 :::
@@ -126,10 +142,10 @@ Led coordination of symposia, panels, and annual meeting activities, and support
 
 #### Peer Review & Professional Membership
 
-- **Trusted Reviewer**, IOP Publishing  
-- Reviewer for journals including *Nature Communications Earth & Environment*, *Environmental Research Letters*, and *Natural Hazards Research*  
-- Member, Society for Risk Analysis (SRA)  
-- Member, INFORMS  
+- **Trusted Reviewer**, IOP Publishing
+- Reviewer for journals including *Nature Communications Earth & Environment*, *Environmental Research Letters*, *Environmental Research: Infrastructure and Sustainability*, *Natural Hazards Research*, *Natural Hazards Review*, and *Environmental Research Communications*
+- Member, Society for Risk Analysis (SRA)
+- Member, INFORMS
 
 :::
 

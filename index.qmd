@@ -9,23 +9,26 @@ title: ""
 ![](images/profile.jpg){.profile-photo}
 
 ## Jingya Wang, Ph.D.
-Postdoctoral Researcher  
-Disaster Research Center  
 
-*Natural hazards · infrastructure systems · decision-making under uncertainty*
+Postdoctoral Researcher  
+CHEER Hub
+
+*Infrastructure resilience · multi-hazard risk · decision-making under uncertainty*
 
 [Google Scholar](https://scholar.google.com/citations?user=xpaSPBMAAAAJ&hl=en)  
 [LinkedIn](https://www.linkedin.com/in/jingya-wang-purdue/)  
-wangjy@udel.edu
+[wangjy@udel.edu](mailto:wangjy@udel.edu)
 
 ::: {.sidebar-section}
+
 ### Research Interests
 
 - Infrastructure Risk & Resilience
-- Adaptive Decision-Making under Uncertainty
-- Interdependent Systems Modeling
-- AI & Optimization in Disaster Science
-- Climate Adaptation Policy
+- Decision-Making under Deep Uncertainty
+- Climate Adaptation and Multi-Hazard Risk
+- AI, Optimization, and Data-Informed Modeling
+- Disaster Mitigation, Insurance, and Public Policy
+
 :::
 
 :::
@@ -34,27 +37,29 @@ wangjy@udel.edu
 
 ## About Me
 
-I study how disaster risk emerges from interactions among **natural hazards**, **infrastructure systems**, and **human decision-making**, developing computational frameworks under **deep uncertainty** that link **hazard physics** with the **natural, built, and social systems** shaping risk.
+::: {.highlight-box}
+My research develops computational decision models for climate adaptation, multi-hazard risk, and resilience across infrastructure systems and the built environment.
+:::
 
-Currently, I am a Postdoctoral Researcher at the NSF-funded [Coastal Hazards, Economic Prosperity, and Resilience (CHEER) Hub](https://www.drc.udel.edu/cheer/) within the [Disaster Research Center](https://www.drc.udel.edu/). Working with [Dr. Rachel Davidson](https://ccee.udel.edu/faculty/rachel-davidson/) and [Dr. Linda Nozick](https://www.duffield.cornell.edu/people/linda-k-nozick/), I focus on **integrating hazard processes, built environment, human behavior, and policy decisions** into unified modeling frameworks to understand how interventions shape long-term risk and resilience.
+I am a Postdoctoral Researcher at the [CHEER Hub](https://www.drc.udel.edu/cheer/) within the Disaster Research Center at the University of Delaware. I work with [Rachel Davidson](https://ccee.udel.edu/faculty/rachel-davidson/) and [Linda Nozick](https://www.duffield.cornell.edu/people/linda-k-nozick/) on computational models that integrate hazard and loss modeling, evolving exposure, infrastructure systems, stakeholder decision-making, and policy design. 
 
-I earned my Ph.D. in Industrial Engineering from Purdue University, advised by [Dr. David Johnson](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281). My doctoral work developed **adaptive infrastructure strategies using reinforcement learning and belief updating** for decision-making under deep uncertainty, and contributed to the risk assessment models used in *Louisiana’s $50 billion Comprehensive Master Plan for a Sustainable Coast*.
+I earned my Ph.D. in Industrial Engineering from Purdue University, advised by [David Johnson](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281). My doctoral research developed adaptive infrastructure strategies using Direct Policy Search and belief updating under deep uncertainty. I also contributed to risk assessment models used in Louisiana’s Comprehensive Master Plan for a Sustainable Coast, supporting the evaluation of structural and nonstructural flood protection projects under future uncertainty.
 
-My work has been recognized through research awards, competitive funding, and professional leadership. I have served as Chair of the [Engineering and Infrastructure Specialty Group](https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/) of the [Society for Risk Analysis](https://www.sra.org/), and was named an [NSF Ocean Decade Champion](https://www.nsf.gov/news/supporting-women-ocean-sciences). I have also received recognition for my research on adaptive decision-making under uncertainty.
+My broader research agenda connects civil engineering, systems modeling, optimization, risk analysis, and public policy. I am especially interested in building transparent and decision-relevant models that help identify not only how much risk exists, but also how risk is produced, transferred, reduced, and distributed across communities and stakeholders.
+
+My work has been recognized through research awards, competitive funding, and professional leadership. I have served as Chair of the [Engineering and Infrastructure Specialty Group](https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/) of the Society for Risk Analysis and was named an [NSF Ocean Decade Champion](https://www.nsf.gov/news/supporting-women-ocean-sciences).
 
 ## News
 
+- **Aug 2026:** Our paper, [*An Optimization-Based Approach to Developing Computationally Efficient Long-Term Event-Loss Scenario Ensembles*](https://ascelibrary.org/doi/10.1061/AJRUA6.RUENG-2004), is now available in the *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*.
 
-- **Jul 2026** — Our work on multi-stakeholder risk and land-use planning will be presented at the 13th U.S. National Conference on Earthquake Engineering (13NCEE), Portland, OR, examining how development dynamics reshape long-term disaster risk.
+- **Aug 2026:** Our paper, [*Coupling Land Use Planning and Multi-Stakeholder Dynamics to Inform Disaster Risk Management: Who Pays for Risk and Who Gains from Intervention?*](https://doi.org/10.1016/j.ijdrr.2026.106222), is now available in the *International Journal of Disaster Risk Reduction*.
 
-- **May 2026** — Research spotlight presentation at the NHERI Computational Symposium on computational methods for modeling long-term sequences of hazard losses and their implications for recovery and resilience.
+- **May 2026:** Research spotlight presentation at the NHERI Computational Symposium on computational methods for modeling long-term sequences of hazard losses and their implications for recovery and resilience.
 
-- **Mar 2026** — Two first-authored papers accepted:
-  - *Stakeholder Dynamics in Disaster Mitigation Funding* (International Journal of Disaster Risk Reduction)
-  - *Optimization-Based Event-Loss Scenario Generation* (Journal of Risk and Uncertainty in Engineering Systems)
+- **May 2026:** Our paper, [*Stakeholder Dynamics in Disaster Mitigation Funding: The Roles of Timing, Spatial Scale and Allocation Basis in Policy Design*](https://doi.org/10.1016/j.ijdrr.2026.106120), was published in the *International Journal of Disaster Risk Reduction*.
 
-- **Dec 2025** — Presented first-authored research at the Society for Risk Analysis Annual Meeting on how land-use planning and multi-stakeholder dynamics shape disaster risk and its distribution.
-
+- **Dec 2025:** Presented first-authored research at the Society for Risk Analysis Annual Meeting on how land-use planning and multi-stakeholder dynamics shape disaster risk and its distribution.
 
 [More updates →](news.qmd)
 

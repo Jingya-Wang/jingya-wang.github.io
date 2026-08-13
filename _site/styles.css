@@ -320,7 +320,7 @@ body main.content {
   border: 1px solid #e1e5ee;
   background:
     linear-gradient(90deg, rgba(255,255,255,0.92) 0%, rgba(255,255,255,0.80) 45%, rgba(255,255,255,0.30) 100%),
-    url("images/map.jpg") center / cover no-repeat;
+    url("images/map.jpg") center 70% / cover no-repeat;
   box-shadow: 0 12px 34px rgba(0, 0, 0, 0.07);
 }
 

@@ -8,7 +8,7 @@ title: "Impact"
 ::: {.impact-hero-content}
 ### From research models to real-world decisions
 
-My work connects computational risk modeling with **state-scale planning**, **practitioner engagement**, and **industry-scale flood model development**.
+My work connects computational risk modeling with **state-scale planning**, **practitioner collaboration**, and **industry-scale flood model development**.
 
 ::: {.impact-hero-tags}
 <span>Louisiana</span>
@@ -28,10 +28,10 @@ My work connects computational risk modeling with **state-scale planning**, **pr
 ::: {.impact-two-col}
 ::: {.impact-text}
 
-This work contributed to large-scale risk modeling for the **2023 Louisiana Coastal Master Plan**, supporting long-term coastal risk analysis, protection and restoration evaluation, and levee design planning.
+This work contributed to large-scale risk modeling for the **2023 Louisiana Coastal Master Plan**, supporting long-term coastal risk analysis, protection and restoration evaluation, and levee and nonstructural planning.
 
 ::: {.impact-highlight}
-Contributed to technical analyses supporting **50-year statewide coastal planning**.
+Contributed to technical analyses supporting **$50-billion 50-year statewide coastal planning**.
 :::
 
 :::
@@ -61,11 +61,11 @@ Contributed to technical analyses supporting **50-year statewide coastal plannin
 
 8. Hemmerling, S. A., Kane, P., Littman, A., Cobell, Z., Diaz, O., Fischbach, J. R., Johnson, D. R., & Wang, J. (2023). *2023 Coastal Master Plan: Supplemental Material H6.4: Historic Storm Run - Ida.* Version 2. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
 
-9. Hemmerling, S. A., Kane, P., Littman, A., Cobell, Z., Diaz, O., Fischbach, J. R., Johnson, D. R., & Wang, J. (2023). *2023 Coastal Master Plan: Supplemental Material H6.5: Historic Storm Run - Issac.* Version 2. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
+9. Hemmerling, S. A., Kane, P., Littman, A., Cobell, Z., Diaz, O., Fischbach, J. R., Johnson, D. R., & Wang, J. (2023). *2023 Coastal Master Plan: Supplemental Material H6.5: Historic Storm Run - Isaac.* Version 2. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
 
 10. Hemmerling, S. A., Georgiou, I. Y., Cobell, Z., Diaz, O., Fischbach, J. R., Johnson, D. R., & Wang, J. (2023). *2023 Coastal Master Plan: Supplemental Material H6.7: Restoration Impacts on Surge and Risk – Coastal Forests.* Version 2. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
 
-11. Johnson, D. R., Fischbach, J. R., Kane, P., Wang, J., Cobell, Z., & Diaz, O. (2024). *2023 Coastal Master Plan: Supplemental Material H6.8: Interaction of Protection and Restoration Projects.* Version I. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
+11. Johnson, D. R., Fischbach, J. R., Kane, P., Wang, J., Cobell, Z., & Diaz, O. (2024). *2023 Coastal Master Plan: Supplemental Material H6.8: Interaction of Protection and Restoration Projects.* Version 1. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.
 
 :::
 
@@ -95,7 +95,7 @@ Focus: translating research models into practical tools for evaluating mitigatio
 ![](images/kcc.jpg)
 :::
 
-As a **Senior Flood Engineer at Karen Clark and Company**, I worked on large-scale flood model development for coastal and inland flooding across the United States.
+As a **Senior Flood Engineer at Karen Clark and Company**, I contributed to large-scale flood model development for coastal and inland flooding across the United States.
 
 ::: {.impact-highlight}
 Developed automated modeling workflows supporting **large-scale U.S. flood event prediction** and reproducible model development.
@@ -108,5 +108,5 @@ This work included research on hydrology and flood physics, review of historical
 :::
 
 ::: {.impact-summary}
-Together, these efforts connect **model development**, **policy design**, and **real-world implementation** for disaster risk management.
+Together, these efforts connect **model development**, **decision support**, and **real-world implementation** for disaster risk management and infrastructure resilience.
 :::
