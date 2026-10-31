@@ -8,6 +8,10 @@ title: "News"
 
 - **Aug 2026** — Our paper, [*Coupling Land Use Planning and Multi-Stakeholder Dynamics to Inform Disaster Risk Management: Who Pays for Risk and Who Gains from Intervention?*](https://doi.org/10.1016/j.ijdrr.2026.106222), is now available in the *International Journal of Disaster Risk Reduction*.
 
+
+- **Jul 2026:** Our paper, [*Direct Policy Search for a Risk-Based Levee Design Framework With Scenario Reduction*](https://doi.org/10.1111/jfr3.70248), was published in the *Journal of Flood Risk Management*, advancing adaptive levee investment strategies under deep uncertainty.
+
+
 - **Jul 2026** — Presented our work on multi-stakeholder risk and land-use planning at the *13th U.S. National Conference on Earthquake Engineering (13NCEE)*, Portland, OR.
 
 - **May 2026** — Research spotlight presentation at the *NHERI Computational Symposium* on computational methods for modeling long-term sequences of hazard losses and their implications for recovery and resilience.

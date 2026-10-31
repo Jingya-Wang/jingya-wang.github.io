@@ -1,12 +1,10 @@
 ---
-title: "Awards & Funding"
+title: "Awards, Funding & Leadership"
 ---
 
 ::: {.research-hero}
 
-### Recognition and support for research in climate risk and resilience
-
-My work has been recognized through competitive awards and supported by research funding focused on **climate risk, infrastructure systems, and decision-making under uncertainty**.
+My work has been recognized through competitive awards, supported by research funding, and strengthened through professional service.
 
 :::
 
@@ -22,10 +20,9 @@ Selected as one of 22 women science leaders recognized by the U.S. National Scie
 
 Awarded through the NSF **Coastlines and People (CoPe)** program within the CHEER Hub. The program is endorsed by the **United Nations Decade of Ocean Science for Sustainable Development** and supports leadership, interdisciplinary research, and collaboration in coastal resilience.
 
-- **Principal Investigator** (within CHEER Hub, per NSF policy)  
-- Funding: **$48,448**  
-- Duration: June 2024 – June 2025  
-
+- **Principal Investigator** within CHEER Hub, per NSF policy
+- Funding: **$48,448**
+- Duration: June 2024 – June 2025
 
 :::
 
@@ -45,6 +42,46 @@ Awarded through the NSF **Coastlines and People (CoPe)** program within the CHEE
 
 - **People’s Choice Award & Honorable Mention**  
   Purdue Climate Change Research Video Competition (2021)
+
+:::
+
+::: {.impact-card}
+
+### Professional Leadership
+
+- **Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2023–2024)
+
+- **Vice Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2022–2023)
+
+Led coordination of symposia, panels, annual meeting activities, and community-building across academia, industry, government, and policy.
+
+:::
+
+::: {.impact-card}
+
+### Community & Conference Service
+
+- Postdoctoral Member, NSF Cross-CoPe Student and Postdoc Planning Committee (2024–Present)
+
+- Annual Meeting Committee, Society for Risk Analysis (2026)
+
+- Poster Judge, Purdue Undergraduate Research Conference (2022)
+
+- Symposium Judge, Purdue SURF Program (2019)
+
+:::
+
+::: {.impact-card}
+
+### Peer Review & Professional Membership
+
+- **Trusted Reviewer**, IOP Publishing
+
+- Reviewer for journals including *Nature Communications Earth & Environment*, *Environmental Research Letters*, *Environmental Research: Infrastructure and Sustainability*, *Natural Hazards Research*, *Natural Hazards Review*, and *Environmental Research Communications*
+
+- Member, Society for Risk Analysis (SRA)
+
+- Member, INFORMS
 
 :::
 

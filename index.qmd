@@ -8,12 +8,13 @@ title: ""
 
 ![](images/profile.jpg){.profile-photo}
 
+
 ## Jingya Wang, Ph.D.
 
 Postdoctoral Researcher  
-CHEER Hub
+University of Delaware · NSF CHEER Hub
 
-*Infrastructure resilience · multi-hazard risk · decision-making under uncertainty*
+*Adaptive decision science for evolving infrastructure and community risk*
 
 [Google Scholar](https://scholar.google.com/citations?user=xpaSPBMAAAAJ&hl=en)  
 [LinkedIn](https://www.linkedin.com/in/jingya-wang-purdue/)  
@@ -23,11 +24,11 @@ CHEER Hub
 
 ### Research Interests
 
-- Infrastructure Risk & Resilience
-- Decision-Making under Deep Uncertainty
-- Climate Adaptation and Multi-Hazard Risk
-- AI, Optimization, and Data-Informed Modeling
-- Disaster Mitigation, Insurance, and Public Policy
+- Infrastructure & Community Risk and Resilience
+- Adaptive Decision-Making under Deep Uncertainty
+- Climate Adaptation & Multi-Hazard Risk
+- Stakeholder Dynamics, Land Use & Public Policy
+- Optimization, Simulation & AI for Decision Support
 
 :::
 
@@ -35,27 +36,34 @@ CHEER Hub
 
 ::: {.main}
 
+
+
+
 ## About Me
 
 ::: {.highlight-box}
-My research develops computational models for resilient infrastructure systems and the built environment, integrating AI, optimization, risk and loss modeling, and decision analysis to support risk-informed decisions.
+Risk and decisions shape each other over time. My research investigates how evolving hazards, the built environment and infrastructure, and stakeholder decisions interact to shape future risk and inform adaptive decision-making under uncertainty.
 :::
 
 <p style="font-size:1.05rem; margin-top:0.9rem; margin-bottom:1.5rem; font-weight:500;">
   ✨ I am on the <strong>2026–2027 academic job market</strong> for faculty positions!
 </p>
 
-I am a Postdoctoral Researcher at the [CHEER Hub](https://www.drc.udel.edu/cheer/) within the Disaster Research Center at the University of Delaware. I work with [Rachel Davidson](https://ccee.udel.edu/faculty/rachel-davidson/) and [Linda Nozick](https://www.duffield.cornell.edu/people/linda-k-nozick/) on computational models that integrate hazard and loss modeling, evolving exposure, infrastructure systems, stakeholder decision-making, and policy design. 
+I am a Postdoctoral Researcher at the [CHEER Hub](https://www.drc.udel.edu/cheer/) within the University of Delaware's Disaster Research Center, working with [Rachel Davidson](https://ccee.udel.edu/faculty/rachel-davidson/) and [Linda Nozick](https://www.duffield.cornell.edu/people/linda-k-nozick/). My current research uses regional risk simulation and multi-stakeholder modeling to investigate how development, household behavior, insurance, and public policies reshape future risk and the distribution of resilience benefits.
 
-I earned my Ph.D. in Industrial Engineering from Purdue University, advised by [David Johnson](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281). My doctoral work developed data-driven and optimization-based adaptive infrastructure strategies under deep uncertainty and contributed to risk assessment models used in Louisiana’s Coastal Master Plan.
+I earned my Ph.D. in Industrial Engineering from Purdue University, advised by [David Johnson](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281). My doctoral research developed reinforcement learning and optimization-based methods for adaptive flood risk management under deep uncertainty. I also contributed regional flood-risk analyses to Louisiana's $50 billion Coastal Master Plan. I subsequently worked as a Senior Flood Engineer at Karen Clark & Company, contributing to the development of large-scale U.S. flood and hurricane catastrophe models.
 
-Across my work, I am interested in how engineering models can better inform decisions under uncertainty: which risks we measure, which interventions we prioritize, and how the benefits and costs of those decisions are distributed across communities, households, insurers, and public agencies.
+My work has been recognized through peer-reviewed publications, competitive funding, and professional leadership. I received a $48,448 NSF–Every Page Foundation Ocean Decade Champion award as Principal Investigator and served as Chair of the [Engineering and Infrastructure Specialty Group](https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/) of the Society for Risk Analysis.
 
-My work has been recognized through research awards, competitive funding, and professional leadership. I have served as Chair of the [Engineering and Infrastructure Specialty Group](https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/) of the Society for Risk Analysis and was named an [NSF Ocean Decade Champion](https://www.nsf.gov/news/supporting-women-ocean-sciences).
+
 
 ## News
 
 - **Aug 2026:** Our paper, [*An Optimization-Based Approach to Developing Computationally Efficient Long-Term Event-Loss Scenario Ensembles*](https://ascelibrary.org/doi/10.1061/AJRUA6.RUENG-2004), is now available in the *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*.
+
+
+- **Jul 2026:** Our paper, [*Direct Policy Search for a Risk-Based Levee Design Framework With Scenario Reduction*](https://doi.org/10.1111/jfr3.70248), was published in the *Journal of Flood Risk Management*, advancing adaptive levee investment strategies under deep uncertainty.
+
 
 - **Aug 2026:** Our paper, [*Coupling Land Use Planning and Multi-Stakeholder Dynamics to Inform Disaster Risk Management: Who Pays for Risk and Who Gains from Intervention?*](https://doi.org/10.1016/j.ijdrr.2026.106222), is now available in the *International Journal of Disaster Risk Reduction*.
 

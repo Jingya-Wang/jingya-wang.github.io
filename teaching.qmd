@@ -1,15 +1,11 @@
 ---
-title: "Teaching, Mentoring & Service"
+title: "Teaching & Mentoring"
 ---
 
 ::: {.teaching-hero}
 
-### Teaching as mentorship, communication, and growth
-
 I approach teaching as a **collaborative and student-centered process**. My goal is to help students build confidence, communicate ideas clearly, and connect analytical tools to **real societal challenges**.
-
 :::
-
 ::: {.teaching-quotes}
 
 ::: {.teaching-quote}
@@ -107,45 +103,6 @@ Spring 2019
 *College of Liberal Arts, Purdue University*
 
 Completed **Classroom Communication for International Graduate Students**, with training in classroom communication, active learning, inclusive engagement, and strategies for explaining complex ideas across diverse audiences.
-
-:::
-
-:::
-
-::: {.teaching-section}
-
-### Academic Service & Leadership
-
-::: {.teaching-card}
-
-#### Professional Leadership
-
-- **Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2023–2024)
-- **Vice Chair**, Engineering & Infrastructure Specialty Group, Society for Risk Analysis (2022–2023)
-
-Led coordination of symposia, panels, annual meeting activities, and community-building across academia, industry, government, and policy.
-
-:::
-
-::: {.teaching-card}
-
-#### Community & Conference Service
-
-- Postdoctoral Member, NSF Cross CoPe Student and Postdoc Planning Committee (2024–Present)
-- Annual Meeting Committee, Society for Risk Analysis (2026)
-- Poster Judge, Purdue Undergraduate Research Conference (2022)
-- Symposium Judge, Purdue SURF Program (2019)
-
-:::
-
-::: {.teaching-card}
-
-#### Peer Review & Professional Membership
-
-- **Trusted Reviewer**, IOP Publishing
-- Reviewer for journals including *Nature Communications Earth & Environment*, *Environmental Research Letters*, *Environmental Research: Infrastructure and Sustainability*, *Natural Hazards Research*, *Natural Hazards Review*, and *Environmental Research Communications*
-- Member, Society for Risk Analysis (SRA)
-- Member, INFORMS
 
 :::
 
