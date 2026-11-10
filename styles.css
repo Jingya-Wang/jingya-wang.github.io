@@ -672,3 +672,178 @@ body main.content {
     height: auto;
   }
 }
+
+
+/* =========================================================
+   SITE-WIDE WIDE LAYOUT
+   ========================================================= */
+
+:root {
+  --site-max-width: 1600px;
+  --site-side-padding: 32px;
+}
+
+/* 1. Override Quarto content width */
+body #quarto-content main.content,
+body .page-columns .content,
+body main.content {
+  width: calc(100% - 2 * var(--site-side-padding)) !important;
+  max-width: var(--site-max-width) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  justify-self: center !important;
+  min-width: 0;
+}
+
+/* 2. Homepage */
+.layout,
+.home-layout.layout {
+  width: 100%;
+  max-width: var(--site-max-width);
+  grid-template-columns: 270px minmax(0, 1fr);
+  gap: 48px;
+}
+
+.layout .main,
+.home-layout .main {
+  max-width: none;
+  min-width: 0;
+}
+
+/* 3. Research page */
+.research-hero,
+.project-grid {
+  width: 100%;
+  max-width: var(--site-max-width);
+}
+
+.hero-figure-full {
+  max-width: 1300px;
+}
+
+.hero-text {
+  max-width: 1200px;
+}
+
+.research-project {
+  grid-template-columns:
+    minmax(0, 0.9fr) minmax(0, 1.3fr);
+  gap: 48px;
+}
+
+.research-project-figure img {
+  max-width: 580px;
+}
+
+/* 4. Impact page */
+.impact-page,
+.impact-hero-map,
+.impact-grid {
+  width: 100%;
+  max-width: var(--site-max-width);
+}
+
+.impact-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.impact-card-featured {
+  grid-column: 1 / -1;
+  width: 100%;
+  max-width: none;
+}
+
+.impact-two-col {
+  grid-template-columns:
+    minmax(0, 1.15fr) minmax(0, 0.85fr);
+  gap: 40px;
+}
+
+.impact-figure img {
+  max-width: 100%;
+}
+
+.impact-figure-wide img {
+  max-width: 100%;
+}
+
+/* 5. Teaching page */
+.teaching-hero,
+.teaching-section,
+.teaching-quotes,
+.teaching-closing {
+  width: 100%;
+  max-width: var(--site-max-width);
+}
+
+.teaching-hero p {
+  max-width: 1100px;
+}
+
+/* 6. Beyond Research */
+.photo-grid {
+  width: 100%;
+  max-width: var(--site-max-width);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+/* 7. Tablet */
+@media (max-width: 1050px) {
+  .layout,
+  .home-layout.layout {
+    grid-template-columns: 230px minmax(0, 1fr);
+    gap: 28px;
+  }
+
+  .research-project {
+    gap: 28px;
+  }
+}
+
+/* 8. Mobile */
+@media (max-width: 800px) {
+  :root {
+    --site-side-padding: 16px;
+  }
+
+  .layout,
+  .home-layout.layout,
+  .impact-grid,
+  .impact-two-col,
+  .research-project,
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .impact-card-featured {
+    grid-column: auto;
+  }
+
+  .research-project-figure img {
+    max-width: 100%;
+  }
+}
+
+
+/* Outside Lab: show complete photos without cropping */
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  border-radius: 16px;
+}
+
+@media (max-width: 800px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -84,7 +84,7 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -133,12 +133,12 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -147,7 +147,7 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -159,7 +159,110 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 </header>
 
 
-<section id="real-world-impact-engagement" class="level2">
+<style>
+/* Wide impact page */
+.impact-page {
+  width: min(100%, 1380px);
+  margin: 0 auto;
+}
+
+.impact-page .impact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: stretch;
+}
+
+.impact-page .impact-card {
+  min-width: 0;
+  margin: 0;
+}
+
+.impact-page .impact-card-featured {
+  grid-column: 1 / -1;
+}
+
+/* Louisiana text and image */
+.impact-page .impact-two-col {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.impact-page .impact-text,
+.impact-page .impact-figure {
+  min-width: 0;
+}
+
+.impact-page .impact-figure img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+/* Compact side-by-side cards */
+.impact-page .impact-card:not(.impact-card-featured)
+.impact-figure img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+/* Collapsible report list */
+.impact-page .report-details {
+  margin-top: 1.2rem;
+  border: 1px solid var(--bs-border-color, #dce3e8);
+  border-radius: 10px;
+  padding: 0.85rem 1.1rem;
+}
+
+.impact-page .report-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style-position: outside;
+}
+
+.impact-page .report-details[open] summary {
+  margin-bottom: 1rem;
+}
+
+.impact-page .report-list {
+  font-size: 0.91rem;
+  line-height: 1.55;
+}
+
+.impact-page .report-list li {
+  margin-bottom: 0.8rem;
+}
+
+/* Spacing */
+.impact-page .impact-card h3 {
+  margin-top: 0;
+}
+
+.impact-page .impact-summary {
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .impact-page .impact-grid,
+  .impact-page .impact-two-col {
+    grid-template-columns: 1fr;
+  }
+
+  .impact-page .impact-card-featured {
+    grid-column: auto;
+  }
+
+  .impact-page .impact-card:not(.impact-card-featured)
+  .impact-figure img {
+    height: auto;
+  }
+}
+</style>
+<section id="real-world-impact-engagement" class="level2 impact-page">
 <h2 class="anchored" data-anchor-id="real-world-impact-engagement">Real-World Impact &amp; Engagement</h2>
 <div class="impact-hero-map">
 <section id="from-research-models-to-real-world-decisions" class="level3 impact-hero-content">
@@ -175,16 +278,20 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="louisiana-coastal-master-plan">Louisiana Coastal Master Plan</h3>
 <div class="impact-two-col">
 <div class="impact-text">
-<p>This work contributed to large-scale risk modeling for the <strong>2023 Louisiana Coastal Master Plan</strong>, supporting long-term coastal risk analysis, protection and restoration evaluation, and levee and nonstructural planning.</p>
+<p>As a member of the <strong>2023 Coastal Master Plan Risk Assessment Team</strong>, I contributed to regional flood-risk modeling and the evaluation of coastal protection and restoration strategies for Louisiana’s <a href="https://coastal.la.gov/our-plan/2023-coastal-master-plan/">2023 Coastal Master Plan</a>. Using the Coastal Louisiana Risk Assessment (CLARA) model, our team assessed how future flood risks and economic losses could evolve under changing environmental conditions and how structural protection and coastal restoration projects could reduce these risks.</p>
+<p>This work provided scientific evidence to inform statewide decisions on coastal investments, helping Louisiana plan for the long-term protection of communities, infrastructure, and livelihoods threatened by hurricanes, sea-level rise, and coastal land loss.</p>
 <div class="impact-highlight">
-<p>Contributed to technical analyses supporting <strong>$50-billion 50-year statewide coastal planning</strong>.</p>
+<p><strong>Research informing public investment:</strong> Contributed to the risk assessment underlying Louisiana’s <strong>$50 billion, 50-year Coastal Master Plan</strong>, a state-adopted strategy guiding coastal restoration and flood risk reduction investments to protect communities and sustain coastal Louisiana.</p>
 </div>
 </div>
 <div class="impact-figure">
 <p><img src="images/masterplan.jpg" class="img-fluid"></p>
 </div>
 </div>
-<p><strong>Peer-reviewed technical reports</strong></p>
+<details class="report-details">
+<summary>
+Technical contributions: 11 Coastal Master Plan reports
+</summary>
 <div class="report-list">
 <ol type="1">
 <li><p>Fischbach, J. R., Johnson, D. R., Wang, J., Hemmerling, S., Cobell, Z., &amp; Diaz, O. (2023). <em>2023 Coastal Master Plan: Attachment C3: 50-Year FWOA Model Output, Regional Summaries.</em> Version 3. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.</p></li>
@@ -200,6 +307,7 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 <li><p>Johnson, D. R., Fischbach, J. R., Kane, P., Wang, J., Cobell, Z., &amp; Diaz, O. (2024). <em>2023 Coastal Master Plan: Supplemental Material H6.8: Interaction of Protection and Restoration Projects.</em> Version 1. Baton Rouge, Louisiana: Coastal Protection and Restoration Authority.</p></li>
 </ol>
 </div>
+</details>
 </section>
 <section id="practitioner-engagement-in-north-carolina-and-texas" class="level3 impact-card">
 <h3 class="anchored" data-anchor-id="practitioner-engagement-in-north-carolina-and-texas">Practitioner Engagement in North Carolina and Texas</h3>
@@ -224,11 +332,11 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 </section>
 </div>
 <div class="impact-summary">
-<p>Together, these efforts connect <strong>model development</strong>, <strong>decision support</strong>, and <strong>real-world implementation</strong> for disaster risk management and infrastructure resilience.</p>
+<p>My work spans computational risk modeling, public investment evaluation, and practitioner-facing applications in disaster risk management.</p>
 </div>
-
-
 </section>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
