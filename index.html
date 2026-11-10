@@ -84,7 +84,7 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -133,17 +133,75 @@ gtag('config', 'G-7F1M5KXHG4', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="layout">
+<style>
+/* Wider homepage layout */
+.home-layout.layout {
+  display: grid;
+  grid-template-columns: 255px minmax(0, 1fr);
+  gap: 2.5rem;
+  max-width: 1360px;
+  width: 100%;
+  margin: 0 auto;
+  align-items: start;
+}
+
+.home-layout .main {
+  min-width: 0;
+  max-width: none;
+}
+
+/* Research introduction */
+.home-question {
+  font-size: 1.23rem;
+  font-weight: 650;
+  line-height: 1.45;
+  margin-bottom: 0.65rem;
+}
+
+.home-layout .highlight-box {
+  padding: 1rem 1.3rem;
+}
+
+.home-layout .highlight-box p:last-child {
+  margin-bottom: 0;
+}
+
+/* Job market announcement */
+.job-market-note {
+  font-size: 1.02rem;
+  font-weight: 500;
+  margin: 1rem 0 1.5rem;
+}
+
+/* Section spacing */
+.home-layout .main h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.85rem;
+}
+
+.home-layout .main p {
+  line-height: 1.7;
+}
+
+/* Responsive layout */
+@media (max-width: 800px) {
+  .home-layout.layout {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+</style>
+<div class="layout home-layout">
 <div class="sidebar">
 <p><img src="images/profile.jpg" class="profile-photo img-fluid"></p>
 <section id="jingya-wang-ph.d." class="level2">
@@ -157,11 +215,10 @@ University of Delaware · NSF CHEER Hub</p>
 <section id="research-interests" class="level3 sidebar-section">
 <h3 class="anchored" data-anchor-id="research-interests">Research Interests</h3>
 <ul>
-<li>Infrastructure &amp; Community Risk and Resilience</li>
-<li>Adaptive Decision-Making under Deep Uncertainty</li>
-<li>Climate Adaptation &amp; Multi-Hazard Risk</li>
-<li>Stakeholder Dynamics, Land Use &amp; Public Policy</li>
-<li>Optimization, Simulation &amp; AI for Decision Support</li>
+<li>Evolving Infrastructure &amp; Community Risk</li>
+<li>Land Use, Mitigation Policy &amp; Equity</li>
+<li>Adaptive Decision-Making under Uncertainty</li>
+<li>Simulation, Optimization &amp; AI for Decision Support</li>
 </ul>
 </section>
 </section>
@@ -170,24 +227,27 @@ University of Delaware · NSF CHEER Hub</p>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
 <div class="highlight-box">
-<p>Risk and decisions shape each other over time. My research investigates how evolving hazards, the built environment and infrastructure, and stakeholder decisions interact to shape future risk and inform adaptive decision-making under uncertainty.</p>
+<div class="home-question">
+<p>How should communities plan and invest when today’s decisions reshape tomorrow’s risk?</p>
 </div>
-<p style="font-size:1.05rem; margin-top:0.9rem; margin-bottom:1.5rem; font-weight:500;">
-✨ I am on the <strong>2026–2027 academic job market</strong> for faculty positions!
-</p>
-<p>I am a Postdoctoral Researcher at the <a href="https://www.drc.udel.edu/cheer/">CHEER Hub</a> within the University of Delaware’s Disaster Research Center, working with <a href="https://ccee.udel.edu/faculty/rachel-davidson/">Rachel Davidson</a> and <a href="https://www.duffield.cornell.edu/people/linda-k-nozick/">Linda Nozick</a>. My current research uses regional risk simulation and multi-stakeholder modeling to investigate how development, household behavior, insurance, and public policies reshape future risk and the distribution of resilience benefits.</p>
-<p>I earned my Ph.D.&nbsp;in Industrial Engineering from Purdue University, advised by <a href="https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281">David Johnson</a>. My doctoral research developed reinforcement learning and optimization-based methods for adaptive flood risk management under deep uncertainty. I also contributed regional flood-risk analyses to Louisiana’s $50 billion Coastal Master Plan. I subsequently worked as a Senior Flood Engineer at Karen Clark &amp; Company, contributing to the development of large-scale U.S. flood and hurricane catastrophe models.</p>
-<p>My work has been recognized through peer-reviewed publications, competitive funding, and professional leadership. I received a $48,448 NSF–Every Page Foundation Ocean Decade Champion award as Principal Investigator and served as Chair of the <a href="https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/">Engineering and Infrastructure Specialty Group</a> of the Society for Risk Analysis.</p>
+<p>Risk and decisions shape each other over time. I develop computational models and decision methods to understand how hazards, development, public investments, and stakeholder behavior shape future risk and inform effective and equitable resilience decisions.</p>
+</div>
+<div class="job-market-note">
+<p>✨ I am on the <strong>2026–2027 academic job market</strong> for faculty positions!</p>
+</div>
+<p>I am a Postdoctoral Researcher at the <a href="https://www.drc.udel.edu/cheer/">CHEER Hub</a> within the University of Delaware’s Disaster Research Center, working with <a href="https://ccee.udel.edu/faculty/rachel-davidson/">Rachel Davidson</a> and <a href="https://www.duffield.cornell.edu/people/linda-k-nozick/">Linda Nozick</a>. I lead development of the Stakeholder-based Tool for the Analysis of Regional Risk (STARR), which simulates how evolving hazards, development, government policies, insurance markets, and household decisions interact over time. My research examines how planning and mitigation policies influence future risk, public expenditures, and the distribution of resilience benefits.</p>
+<p>I earned my Ph.D.&nbsp;in Industrial Engineering from Purdue University, advised by <a href="https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281">David Johnson</a>. My doctoral research developed reinforcement learning and optimization-based methods for adaptive flood risk management under deep uncertainty. I also contributed regional flood-risk analyses to Louisiana’s 50-year, $50 billion Coastal Master Plan, working with government agencies, interdisciplinary researchers, and community stakeholders to inform long-term flood protection. Before joining Delaware, I worked as a Senior Flood Engineer at Karen Clark &amp; Company, contributing to large-scale U.S. flood and hurricane catastrophe models.</p>
+<p>My work has been recognized through peer-reviewed publications, competitive funding, and professional leadership. I received a competitive <strong>$48,448 NSF–Every Page Foundation Ocean Decade Champion award</strong> as Principal Investigator and served as Chair of the <a href="https://www.sra.org/risk-analysis-specialty-groups/engineering-and-infrastructure/">Engineering and Infrastructure Specialty Group</a> of the Society for Risk Analysis.</p>
 </section>
 <section id="news" class="level2">
 <h2 class="anchored" data-anchor-id="news">News</h2>
 <ul>
 <li><p><strong>Aug 2026:</strong> Our paper, <a href="https://ascelibrary.org/doi/10.1061/AJRUA6.RUENG-2004"><em>An Optimization-Based Approach to Developing Computationally Efficient Long-Term Event-Loss Scenario Ensembles</em></a>, is now available in the <em>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering</em>.</p></li>
-<li><p><strong>Jul 2026:</strong> Our paper, <a href="https://doi.org/10.1111/jfr3.70248"><em>Direct Policy Search for a Risk-Based Levee Design Framework With Scenario Reduction</em></a>, was published in the <em>Journal of Flood Risk Management</em>, advancing adaptive levee investment strategies under deep uncertainty.</p></li>
 <li><p><strong>Aug 2026:</strong> Our paper, <a href="https://doi.org/10.1016/j.ijdrr.2026.106222"><em>Coupling Land Use Planning and Multi-Stakeholder Dynamics to Inform Disaster Risk Management: Who Pays for Risk and Who Gains from Intervention?</em></a>, is now available in the <em>International Journal of Disaster Risk Reduction</em>.</p></li>
+<li><p><strong>Jul 2026:</strong> Our paper, <a href="https://doi.org/10.1111/jfr3.70248"><em>Direct Policy Search for a Risk-Based Levee Design Framework With Scenario Reduction</em></a>, was published in the <em>Journal of Flood Risk Management</em>.</p></li>
 <li><p><strong>May 2026:</strong> Research spotlight presentation at the NHERI Computational Symposium on computational methods for modeling long-term sequences of hazard losses and their implications for recovery and resilience.</p></li>
 <li><p><strong>May 2026:</strong> Our paper, <a href="https://doi.org/10.1016/j.ijdrr.2026.106120"><em>Stakeholder Dynamics in Disaster Mitigation Funding: The Roles of Timing, Spatial Scale and Allocation Basis in Policy Design</em></a>, was published in the <em>International Journal of Disaster Risk Reduction</em>.</p></li>
-<li><p><strong>Dec 2025:</strong> Presented first-authored research at the Society for Risk Analysis Annual Meeting on how land-use planning and multi-stakeholder dynamics shape disaster risk and its distribution.</p></li>
+<li><p><strong>Dec 2025:</strong> Presented first-authored research at the Society for Risk Analysis Annual Meeting on land-use planning and multi-stakeholder disaster risk.</p></li>
 </ul>
 <p><a href="./news.html">More updates →</a></p>
 </section>
